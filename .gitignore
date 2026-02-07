@@ -1,0 +1,37 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+
+# Data files (except samples)
+data/*.csv
+!data/sample_*.csv
+
+# Config with secrets
+config/.fyers_token
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
