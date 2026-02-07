@@ -5,8 +5,8 @@
 
 # Fyers API Credentials
 fyers:
-  app_id: ""  # Your Fyers App ID (e.g., XXXXXXXXXX-100)
-  secret_key: ""  # Your Fyers Secret Key
+  app_id: "X2Y6QZ46X8-100"
+  secret_key: "PZSI5TQFR8"
   redirect_uri: "http://127.0.0.1:8000/"
 
 # Trading Instrument Settings
